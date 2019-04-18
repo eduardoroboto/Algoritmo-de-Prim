@@ -1,0 +1,9 @@
+graph graphname {
+rankdir=LR;
+B -- A [label=2]
+C -- A [label=3]
+E -- C [label=1]
+D -- A [label=3]
+F -- C [label=6]
+G -- F [label=9]
+}
