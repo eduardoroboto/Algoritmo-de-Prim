@@ -57,7 +57,6 @@ def graphTwo():
 def graphThree():
     grafo = Graph("n")
     grafo.addNodes(["A", "B", "C", "D", "E", "F", "G"])
-
     grafo.addEdge("A", "B", 2)
     grafo.addEdge("A", "D", 3)
     grafo.addEdge("A", "C", 3)
