@@ -1,6 +1,6 @@
 # Algoritmo-de-Prim
 
 
-Trabalho de teoria de grafos.
+Trabalho de teoria dos grafos.
 
 
